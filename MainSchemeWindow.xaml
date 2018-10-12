@@ -1,0 +1,71 @@
+﻿<Window x:Class="MillitaryApp.MainSchemeWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MillitaryApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="868" d:DesignWidth="1920"
+      Title="Просмотр общей схемы аппаратура" Background="White"
+      WindowStyle="None" ResizeMode="NoResize" Icon="Icon.ico" Topmost="True"
+      WindowStartupLocation="CenterScreen" WindowState="Maximized" Width="1920" Height="1080"
+      Activated="FocusChanged" Deactivated="FocusChanged" KeyUp="Escape" Closed="OnClosed">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/MillitaryApp;component/Styles/Main.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Стиль кнопки возврата в меню -->
+            <Style x:Key="Style.Button" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource Main.Style.Button}">
+                <Setter Property="Height" Value="37.263" />
+                <Setter Property="Width" Value="132" />
+                <Setter Property="Text" Value="Меню" />
+                <Setter Property="Background" Value="{StaticResource Main.Color.White}" />
+                <Setter Property="Foreground" Value="{StaticResource Main.Color.Black}" />
+                <Setter Property="FontSize" Value="22" />
+                <Setter Property="Padding" Value="14,3,14,5" />
+                <EventSetter Event="MouseLeftButtonUp" Handler="BackToMenu" />
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Background" Value="{StaticResource Main.Color.Blue}" />
+                        <Setter Property="Foreground" Value="{StaticResource Main.Color.White}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <!-- Стиль Схемы -->
+            <Style x:Key="Style.Image" TargetType="{x:Type Image}">
+                <Setter Property="Visibility" Value="Hidden"/>
+                <Setter Property="IsEnabled" Value="False"/>
+                <Setter Property="CacheMode">
+                    <Setter.Value>
+                        <BitmapCache/>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Image Source="Общая схема/1.png" Style="{StaticResource Style.Image}" Visibility="Visible"/>
+        <TextBlock x:Name="MenuButton" Style="{StaticResource Style.Button}" Text="Меню" VerticalAlignment="Bottom" Margin="50,0,0,30" MouseLeftButtonUp="BackToMenu" HorizontalAlignment="Left" />
+        <Viewbox>
+            <Canvas HorizontalAlignment="Left" Height="1080" VerticalAlignment="Top" Width="1920" Margin="0,10,0,0">
+                <local:SchemeElement Height="63.926" Canvas.Left="321.713" Canvas.Top="862.037" Width="223.065"/>
+                <local:SchemeElement Height="61.565" Canvas.Left="531.065" Canvas.Top="129.278" Width="180.657" Title="Антенный дуплексер" Description="Предназначен для ответвления сигнала через общий фидер к Z-излучателям на два диапазона рабочих частот."/>
+                <local:SchemeElement Height="61.565" Canvas.Left="1187.083" Canvas.Top="129.278" Width="180.657" Title="Антенный дуплексер" Description="Предназначен для ответвления сигнала через общий фидер к Z-излучателям на два диапазона рабочих частот."/>
+                <local:SchemeElement Height="61.565" Canvas.Left="531.065" Canvas.Top="238.278" Width="180.657" Title="Дуплексер станционный" Description="Предназначен для дуплексирования сигналов с антенного фидера на моноблоки приемопередатчиков в 1 и 2 диапазонов рабочих частот."/>
+                <local:SchemeElement Height="61.565" Canvas.Left="1187.083" Canvas.Top="238.278" Width="180.657" Title="Дуплексер станционный" Description="Предназначен для дуплексирования сигналов с антенного фидера на моноблоки приемопередатчиков в 1 и 2 диапазонов рабочих частот."/>
+                <local:SchemeElement Height="100.926" Canvas.Left="356.463" Canvas.Top="338.194" Width="205.889" Title="Моноблок приемопередатчика" Description="Предназначен для передачи и приема цифровой информации."/>
+                <local:SchemeElement Height="100.926" Canvas.Left="681.444" Canvas.Top="338.194" Width="205.889" Title="Моноблок приемопередатчика" Description="Предназначен для передачи и приема цифровой информации."/>
+                <local:SchemeElement Height="100.926" Canvas.Left="1010.463" Canvas.Top="338.194" Width="205.889" Title="Моноблок приемопередатчика" Description="Предназначен для передачи и приема цифровой информации."/>
+                <local:SchemeElement Height="100.926" Canvas.Left="1334.435" Canvas.Top="338.194" Width="205.889" Title="Моноблок приемопередатчика" Description="Предназначен для передачи и приема цифровой информации."/>
+                <local:SchemeElement Height="65.602" Canvas.Left="595.657" Canvas.Top="631.889" Width="183.686" Title="Устройство согласования" Description="Предназначено для согласования групповых уровней приема и передачи МПП1Е в разных режимах с аппаратурой цифрового каналообразования, предыскажения уровня группового сигнала (ГрС), подавление шумов на выходе приема при отсутствии сигнала, контроль наличия КЧ на приеме, а также зашумление ГрС на передаче."/>
+                <local:SchemeElement Height="70.648" Canvas.Left="793.472" Canvas.Top="631.889" Width="70.648" Title="Пункт управления" Description="Предназначен для: - управление режима работы приемопередающих моноблоков, конфигурирования и индикации их состояния на графическом электролюминесцентном индикаторе; - опроса и индикации состояния приемопередающих моноблоков как подключенных к ПУ2, так и установленных на РРЛ; - звуковой сигнализации аварийного состояния приемопередающих моноблоков."/>
+                <local:SchemeElement Height="70.648" Canvas.Left="869.12" Canvas.Top="631.889" Width="70.648" Title="Пульт связи оператора" Description="Предназначен для формирования команд управления на включение вызовов и (или) соединений БВСЛ, для организации служебной связи оператора с абонентами СЛ, ПСВ, Р-168-5УТ-2, П-330-6, МПП через БВСЛ и для индикации соединений и приёма вызовов по служебной связи."/>
+                <local:SchemeElement Height="70.648" Canvas.Left="939.768" Canvas.Top="631.889" Width="70.648" Title="Пункт управления" Description="Предназначен для: - управление режима работы приемопередающих моноблоков, конфигурирования и индикации их состояния на графическом электролюминесцентном индикаторе; - опроса и индикации состояния приемопередающих моноблоков как подключенных к ПУ2, так и установленных на РРЛ; - звуковой сигнализации аварийного состояния приемопередающих моноблоков."/>
+                <local:SchemeElement Height="45.416" Canvas.Left="793.472" Canvas.Top="697.491" Width="216.944" Title="Рабочее место оператора" Description="Предназначено для организации управления радиорелейной станции."/>
+
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</Window>

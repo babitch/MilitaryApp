@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4002BFF-1691-4B3E-A67E-52E8EDE35CCB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MillitaryApp</RootNamespace>
+    <AssemblyName>MillitaryApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="MainSchemeWindow.xaml.cs">
+      <DependentUpon>MainSchemeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_3.xaml.cs">
+      <DependentUpon>Mode_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\1\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_3.xaml.cs">
+      <DependentUpon>Mode_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_3.xaml.cs">
+      <DependentUpon>Mode_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\4\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\2\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_3.xaml.cs">
+      <DependentUpon>Mode_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\5\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\3\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Elements.xaml.cs">
+      <DependentUpon>Elements.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_2.xaml.cs">
+      <DependentUpon>Mode_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_3.xaml.cs">
+      <DependentUpon>Mode_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_7.xaml.cs">
+      <DependentUpon>Mode_7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_6.xaml.cs">
+      <DependentUpon>Mode_6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_5.xaml.cs">
+      <DependentUpon>Mode_5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_4.xaml.cs">
+      <DependentUpon>Mode_4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Mode_1.xaml.cs">
+      <DependentUpon>Mode_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Анимации режимов работы\6\Scheme.xaml.cs">
+      <DependentUpon>Scheme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MainSchemeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Mode_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\1\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Mode_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\4\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Mode_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\2\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Mode_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\5\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Mode_5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\3\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Elements.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Mode_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Анимации режимов работы\6\Scheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="PhotoWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="PhotoWindow.xaml.cs">
+      <DependentUpon>PhotoWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="SchemeElement.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SchemeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="SchemeElement.xaml.cs">
+      <DependentUpon>SchemeElement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SchemeWindow.xaml.cs">
+      <DependentUpon>SchemeWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Styles\Animation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\Main.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Название аппаратуры.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Описание аппаратуры.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Режимы работы аппаратуры.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Interface\MainMenu.png" />
+    <Resource Include="Interface\Select.png" />
+    <Resource Include="Interface\Selected.png" />
+    <Resource Include="Interface\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Схемы аппаратуры\1.png" />
+    <Resource Include="Схемы аппаратуры\4.png" />
+    <Resource Include="Схемы аппаратуры\3.png" />
+    <Resource Include="Схемы аппаратуры\2.png" />
+    <Resource Include="Схемы аппаратуры\6.png" />
+    <Resource Include="Схемы аппаратуры\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Descriptions\П-302-О.txt" />
+    <Resource Include="Descriptions\П-303-ОБ.txt" />
+    <Resource Include="Descriptions\П-327-2.txt" />
+    <Resource Include="Descriptions\П-330-6.txt" />
+    <Resource Include="Descriptions\ТА-57.txt" />
+    <Resource Include="Descriptions\ТА-88.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Иконки аппаратуры\1.png" />
+    <Resource Include="Иконки аппаратуры\2.png" />
+    <Resource Include="Иконки аппаратуры\3.png" />
+    <Resource Include="Иконки аппаратуры\4.png" />
+    <Resource Include="Иконки аппаратуры\5.png" />
+    <Resource Include="Иконки аппаратуры\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Анимации режимов работы\1\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Анимации режимов работы\2\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Анимации режимов работы\3\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Анимации режимов работы\4\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Общая схема\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Фотографии аппаратуры\1.jpg" />
+    <Resource Include="Фотографии аппаратуры\2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

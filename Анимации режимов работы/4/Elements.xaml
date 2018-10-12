@@ -1,0 +1,15 @@
+﻿<Page x:Class="MillitaryApp.Animations.App_4.Elements"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:MillitaryApp="clr-namespace:MillitaryApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="1012" d:DesignWidth="1800"
+      Title="Elements">
+    <Viewbox>
+        <Canvas Height="1012" Width="1800">
+            <MillitaryApp:SchemeElement Height="32" Canvas.Left="182" Canvas.Top="635" Width="32" Title="Название" Description="Описание"/>
+        </Canvas>
+    </Viewbox>
+</Page>

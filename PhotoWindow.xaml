@@ -1,0 +1,54 @@
+﻿<Window x:Class="MillitaryApp.PhotoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MillitaryApp"
+        mc:Ignorable="d"
+        Title="Просмотр фотографии аппаратуры связи" Background="White"
+        WindowStyle="None" ResizeMode="NoResize" Icon="Icon.ico" Topmost="True"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized" Width="1920" Height="1080"
+        Activated="FocusChanged" Deactivated="FocusChanged" KeyUp="Escape" Closed="OnClosed">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/MillitaryApp;component/Styles/Main.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Стиль кнопки возврата в меню -->
+            <Style x:Key="Style.Button" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource Main.Style.Button}">
+                <Setter Property="Height" Value="37.263" />
+                <Setter Property="Width" Value="132" />
+                <Setter Property="Text" Value="Меню" />
+                <Setter Property="Background" Value="{StaticResource Main.Color.White}" />
+                <Setter Property="Foreground" Value="{StaticResource Main.Color.Black}" />
+                <Setter Property="FontSize" Value="22" />
+                <Setter Property="Padding" Value="14,3,14,5" />
+                <EventSetter Event="MouseLeftButtonUp" Handler="BackToMenu" />
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Background" Value="{StaticResource Main.Color.Blue}" />
+                        <Setter Property="Foreground" Value="{StaticResource Main.Color.White}" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+
+            <!-- Стиль фотографии аппаратуры -->
+            <Style x:Key="Style.Image" TargetType="{x:Type Image}">
+                <Setter Property="Visibility" Value="Hidden"/>
+                <Setter Property="IsEnabled" Value="False"/>
+                <Setter Property="CacheMode">
+                    <Setter.Value>
+                        <BitmapCache/>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Image Source="Фотографии аппаратуры\1.jpg" Style="{StaticResource Style.Image}"/>
+        <Image Source="Фотографии аппаратуры\2.jpg" Style="{StaticResource Style.Image}"/>
+        <TextBlock x:Name="MenuButton" Style="{StaticResource Style.Button}" Text="Меню" VerticalAlignment="Bottom" Margin="50,0,0,30" MouseLeftButtonUp="BackToMenu" HorizontalAlignment="Left" />
+        <TextBlock x:Name="Description" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="28" Margin="50,20,30,0" MaxWidth="1800" MaxHeight="65" TextAlignment="Center" FontWeight="Bold" Text="Название фото" Height="49.243"/>
+    </Grid>
+</Window>

@@ -1,0 +1,678 @@
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\bin\Debug\MillitaryApp.exe
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\bin\Debug\MillitaryApp.pdb
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Styles\Animation.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\PhotoWindow.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\SchemeElement.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\SchemeWindow.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\App.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.cache
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.lref
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\PhotoWindow.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\SchemeElement.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\SchemeWindow.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Styles\Main.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Название аппаратуры.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Описание аппаратуры.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\Режимы работы аппаратуры.baml
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.g.resources
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.Properties.Resources.resources
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.GenerateResource.Cache
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.exe
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.pdb
+C:\Users\Stas\Downloads\MillitaryApp\MillitaryApp\obj\x86\Debug\MillitaryApp.csprojResolveAssemblyReference.cache
+C:\Users\60051741\Desktop\MillitaryApp\bin\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\MillitaryApp\bin\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.csprojAssemblyReference.cache
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Styles\Animation.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MainSchemeWindow.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\PhotoWindow.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\SchemeElement.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\SchemeWindow.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\App.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.cache
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.lref
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MainWindow.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\PhotoWindow.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\SchemeElement.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\SchemeWindow.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Styles\Main.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Название аппаратуры.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Описание аппаратуры.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\Режимы работы аппаратуры.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MainSchemeWindow.baml
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.g.resources
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.Properties.Resources.resources
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.GenerateResource.cache
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.CoreCompileInputs.cache
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\MillitaryApp\obj\x86\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\Projects\MillitaryApp\bin\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\Projects\MillitaryApp\bin\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.csprojAssemblyReference.cache
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Styles\Animation.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MainSchemeWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\PhotoWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\SchemeElement.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\SchemeWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\App.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.cache
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.lref
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MainSchemeWindow.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MainWindow.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\PhotoWindow.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\SchemeElement.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\SchemeWindow.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Styles\Main.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Название аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Описание аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\Режимы работы аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.g.resources
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.Properties.Resources.resources
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.GenerateResource.cache
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.csproj.CoreCompileInputs.cache
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\Projects\MillitaryApp\obj\x86\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\Projects\MilitaryApp\bin\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\Projects\MilitaryApp\bin\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.csprojAssemblyReference.cache
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Styles\Animation.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MainSchemeWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\PhotoWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\SchemeElement.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\SchemeWindow.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\App.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.cache
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.lref
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MainSchemeWindow.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MainWindow.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\PhotoWindow.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\SchemeElement.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\SchemeWindow.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Styles\Main.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Название аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Описание аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\Режимы работы аппаратуры.baml
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.g.resources
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.Properties.Resources.resources
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.csproj.GenerateResource.cache
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.csproj.CoreCompileInputs.cache
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\Projects\MilitaryApp\obj\x86\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\MilitaryApp\bin\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\MilitaryApp\bin\Debug\MillitaryApp.pdb
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.csprojAssemblyReference.cache
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Styles\Animation.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MainSchemeWindow.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_2.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_3.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_7.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_6.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_5.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_4.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Mode_1.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\PhotoWindow.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\SchemeElement.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\SchemeWindow.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\App.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.cache
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp_MarkupCompile.lref
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MainSchemeWindow.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\1\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\4\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\2\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\5\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\3\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Elements.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Анимации режимов работы\6\Scheme.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MainWindow.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\PhotoWindow.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\SchemeElement.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\SchemeWindow.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Styles\Main.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Название аппаратуры.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Описание аппаратуры.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\Режимы работы аппаратуры.baml
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.g.resources
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.Properties.Resources.resources
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.csproj.GenerateResource.cache
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.csproj.CoreCompileInputs.cache
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.exe
+C:\Users\60051741\Desktop\MilitaryApp\obj\x86\Debug\MillitaryApp.pdb

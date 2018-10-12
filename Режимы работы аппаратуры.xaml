@@ -1,0 +1,30 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:MillitaryApp">
+    <ComboBox x:Key="App.Modes" x:Shared="False">
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+        <ComboBox>
+            <Run>ПРИЕМ</Run>
+            <Run>ПЕРЕДАЧА</Run>
+        </ComboBox>
+    </ComboBox>
+</ResourceDictionary>

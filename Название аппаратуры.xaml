@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:MillitaryApp">
+    <ComboBox x:Key="App.Title" x:Shared="False">
+        <Run>РЕЖИМ ОКОНЕЧНЫЙ ЦИФРОВОЙ  МНОГОКАНАЛЬНЫЙ</Run>
+        <Run>РЕЖИМ ОКОНЕЧНЫЙ АНАГОЛОВЫЙ С  УЦС-Е</Run>
+        <Run>РЕЖИМ ОКОНЕЧНЫЙ ЦИФРОВОЙ  ОДНОКАНАЛЬНЫЙ С1-ФЛ-БИ</Run>
+        <Run>РЕЖИМ ОКОНЕЧНЫЙ ЦИФРОВОЙ ПО  ОЦК</Run>
+        <Run>РЕЖИМ ВСТРЕЧНОЙ РАБОТЫ Р415-В 3ТЧ  КАНАЛ</Run>
+        <Run>COMING SOON</Run>
+    </ComboBox>
+</ResourceDictionary>
