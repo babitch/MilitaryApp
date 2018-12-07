@@ -51,6 +51,7 @@
         <Border.ToolTip>
             <ToolTip x:Name="TooltipPlacement" Style="{StaticResource Tooltip.Right}">
                 <StackPanel MaxWidth="500">
+                    <Image x:Name = "TooltipImage"/>
                     <TextBlock x:Name="TooltipTitle" FontWeight="Bold" TextWrapping="Wrap"/>
                     <TextBlock x:Name="TooltipDescription" TextWrapping="Wrap" TextAlignment="Justify"/>
                 </StackPanel>

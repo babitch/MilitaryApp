@@ -27,6 +27,17 @@ namespace MillitaryApp
                 TooltipDescription.Visibility = Visibility.Collapsed;
         }
 
+
+        /// <summary> Изображение элемента. </summary>
+        [Category("Элемент схемы")]
+        [DisplayName("Картинка")]
+        public System.Windows.Media.ImageSource Image
+        {
+            get { return TooltipImage.Source; }
+            set { TooltipImage.Source = value; }
+        }
+
+
         /// <summary> Название элемента. </summary>
         [Category("Элемент схемы")]
         [DisplayName("Название")]

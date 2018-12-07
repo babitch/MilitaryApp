@@ -51,7 +51,7 @@
         <Viewbox>
             <Canvas HorizontalAlignment="Left" Height="1080" VerticalAlignment="Top" Width="1920" Margin="0,10,0,0">
                 <local:SchemeElement Height="63.926" Canvas.Left="321.713" Canvas.Top="862.037" Width="223.065"/>
-                <local:SchemeElement Height="61.565" Canvas.Left="531.065" Canvas.Top="129.278" Width="180.657" Title="Антенный дуплексер" Description="Предназначен для ответвления сигнала через общий фидер к Z-излучателям на два диапазона рабочих частот."/>
+                <local:SchemeElement Height="61.565" Canvas.Left="531.065" Canvas.Top="129.278" Width="180.657" Title="Антенный дуплексер" Description="Предназначен для ответвления сигнала через общий фидер к Z-излучателям на два диапазона рабочих частот." Image = "/MillitaryApp;component/Схемы аппаратуры/1.png"/>
                 <local:SchemeElement Height="61.565" Canvas.Left="1187.083" Canvas.Top="129.278" Width="180.657" Title="Антенный дуплексер" Description="Предназначен для ответвления сигнала через общий фидер к Z-излучателям на два диапазона рабочих частот."/>
                 <local:SchemeElement Height="61.565" Canvas.Left="531.065" Canvas.Top="238.278" Width="180.657" Title="Дуплексер станционный" Description="Предназначен для дуплексирования сигналов с антенного фидера на моноблоки приемопередатчиков в 1 и 2 диапазонов рабочих частот."/>
                 <local:SchemeElement Height="61.565" Canvas.Left="1187.083" Canvas.Top="238.278" Width="180.657" Title="Дуплексер станционный" Description="Предназначен для дуплексирования сигналов с антенного фидера на моноблоки приемопередатчиков в 1 и 2 диапазонов рабочих частот."/>
