@@ -569,6 +569,26 @@
     <Resource Include="Фотографии аппаратуры\1.jpg" />
     <Resource Include="Фотографии аппаратуры\2.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Скрины основной схемы\Каналообразование аналог.JPG" />
+    <Resource Include="Скрины основной схемы\Каналообразование.JPG" />
+    <Resource Include="Скрины основной схемы\Контроль каналов и трактов.JPG" />
+    <Resource Include="Скрины основной схемы\Моноблок.png" />
+    <Resource Include="Скрины основной схемы\ПСО.JPG" />
+    <Resource Include="Скрины основной схемы\Пульт управления.JPG" />
+    <Resource Include="Скрины основной схемы\Рабочее место оператора.JPG" />
+    <Resource Include="Скрины основной схемы\Телефон.JPG" />
+    <Resource Include="Скрины основной схемы\Устойство автовыбора.JPG" />
+    <Resource Include="Скрины основной схемы\Устройство согласования.JPG" />
+    <Resource Include="Скрины основной схемы\Щит.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Скрины основной схемы\Дуплексер станц.JPG" />
+    <Resource Include="Скрины основной схемы\Дуплексер.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Скрины основной схемы\БККР.JPG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
   </PropertyGroup>
