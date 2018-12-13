@@ -589,6 +589,11 @@
   <ItemGroup>
     <Resource Include="Скрины основной схемы\БККР.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Фотографии аппаратуры\3.jpg" />
+    <Resource Include="Фотографии аппаратуры\4.jpg" />
+    <Resource Include="Фотографии аппаратуры\5.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
   </PropertyGroup>
