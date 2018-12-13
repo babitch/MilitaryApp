@@ -50,5 +50,7 @@
         <Image Source="Фотографии аппаратуры\2.jpg" Style="{StaticResource Style.Image}"/>
         <TextBlock x:Name="MenuButton" Style="{StaticResource Style.Button}" Text="Меню" VerticalAlignment="Bottom" Margin="50,0,0,30" MouseLeftButtonUp="BackToMenu" HorizontalAlignment="Left" />
         <TextBlock x:Name="Description" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="28" Margin="50,20,30,0" MaxWidth="1800" MaxHeight="65" TextAlignment="Center" FontWeight="Bold" Text="Название фото" Height="49.243"/>
+        <Button Content="Первое фото" HorizontalAlignment="Left" Margin="211,1013,0,0" VerticalAlignment="Top" Width="189" Height="37" Click="Button_Click" Tag="0" />
+        <Button Content="Второе фото" HorizontalAlignment="Left" Margin="405,1013,0,0" VerticalAlignment="Top" Width="189" Height="37" Click="Button_Click" Tag="1"/>
     </Grid>
 </Window>

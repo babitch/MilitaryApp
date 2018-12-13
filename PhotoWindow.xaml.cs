@@ -17,8 +17,6 @@ namespace MillitaryApp
     /// </summary>
     public partial class PhotoWindow : Window
     {
-
-
         /// <summary> Ссылки на фотографии аппаратуры связи </summary>
         Image[] photos;
         /// <summary> Ссылка на выбранную фотографию </summary>
@@ -28,10 +26,15 @@ namespace MillitaryApp
         {
             InitializeComponent();
 
-            List<Image> list = new List<Image>();
+            var list = new List<Image>();
             foreach (UIElement element in ((Panel)Content).Children)
-                list.Add(element as Image);
-            list.Remove(null);
+            {
+                if (element is Image)
+                {
+                    list.Add((Image)element);
+                }
+            }
+
             photos = list.ToArray();
         }
 
@@ -66,6 +69,24 @@ namespace MillitaryApp
 
             if (current_photo != null)
                 current_photo.Visibility = Visibility.Hidden;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (current_photo != null && photos.Length > 0)
+            {
+                // прячем текущее из видимых
+                current_photo.Visibility = Visibility.Hidden;
+
+                var index = 0;
+                var button = sender as Button;
+                int.TryParse(button?.Tag.ToString(), out index);
+
+                // назначаем текущему новый стиль из индекса
+                current_photo = photos[index];
+                current_photo.Visibility = Visibility.Visible;
+                this.UpdateLayout();
+            }
         }
     }
 }
