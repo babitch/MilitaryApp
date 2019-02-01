@@ -117,9 +117,8 @@
                 </Canvas>
             </UniformGrid>
 
-            <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть фото" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,307,45" MouseLeftButtonUp="OpenPhoto"/>
-            <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть схему" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,94,45" MouseLeftButtonUp="OpenScheme"/>
-            <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть основную схему" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,520,45" MouseLeftButtonUp="OpenMainScheme"/>
+            <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть фото" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,114,45" MouseLeftButtonUp="OpenPhoto"/>
+            <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть основную схему" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,337,45" MouseLeftButtonUp="OpenMainScheme"/>
             <Grid HorizontalAlignment="Left" Height="84.94" Margin="90,0,0,29" VerticalAlignment="Bottom" Width="313">
                 <Rectangle Margin="0,12.94,0,0" Stroke="#FF1F242C" Fill="#FFF5F5F4" StrokeThickness="2"/>
                 <TextBlock Margin="50,0,32.61,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Параметры отображения" FontSize="18" Background="#FFF5F5F4" Padding="2,0" d:LayoutOverrides="Width" HorizontalAlignment="Left"/>

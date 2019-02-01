@@ -25,9 +25,7 @@
             </ComboBox>
 
             <!-- Этапы (анимация) -->
-            <Storyboard x:Key="Step_1">
-
-            </Storyboard>
+            <Storyboard x:Key="Step_1"/>
             <Storyboard x:Key="Step_2">
 
             </Storyboard>
@@ -51,6 +49,8 @@
             </Ellipse>
             <Canvas x:Name="Step_1" Style="{StaticResource Animation.Step.Style}"/>
             <Canvas x:Name="Step_2" Style="{StaticResource Animation.Step.Style}"/>
+            <Path Data="M372.66667,830 C1243.3333,830 1242.833,830 1242.833,830" Fill="#FFF4F4F5" Height="1" Canvas.Left="372.667" Stretch="Fill" Stroke="Black" Canvas.Top="830" Width="871.166"/>
+            <Path Data="M1244.6667,828 C1244.6667,745.33333 1244.6667,744.16667 1244.6667,744.16667" Fill="#FFF4F4F5" Height="84.833" Canvas.Left="1244.667" Stretch="Fill" Stroke="Black" Canvas.Top="744.167" Width="1"/>
         </Canvas>
     </Viewbox>
 </Page>

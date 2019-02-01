@@ -25,9 +25,7 @@
             </ComboBox>
 
             <!-- Этапы (анимация) -->
-            <Storyboard x:Key="Step_1">
-
-            </Storyboard>
+            <Storyboard x:Key="Step_1"/>
             <Storyboard x:Key="Step_2">
 
             </Storyboard>
