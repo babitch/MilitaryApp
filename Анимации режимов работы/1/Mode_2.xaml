@@ -25,7 +25,104 @@
             </ComboBox>
 
             <!-- Этапы (анимация) -->
-            <Storyboard x:Key="Step_1"/>
+            <Storyboard x:Key="Step_1">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="156.75"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="156.75"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="532.75"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="Signal">
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="-109"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal_Copy">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="156.667"/>
+                </DoubleAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Signal_Copy">
+                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.1" Value="{x:Static Visibility.Hidden}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal_Copy1">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="156.667"/>
+                </DoubleAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Signal_Copy1">
+                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Hidden}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal_Copy2">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="157"/>
+                </DoubleAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Signal_Copy2">
+                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.6" Value="{x:Static Visibility.Hidden}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal_Copy3">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="156.667"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="156.667"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="532.667"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="Signal_Copy3">
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="-35.333"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="Signal_Copy4">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="156.5"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="532.5"/>
+                </DoubleAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Signal_Copy4">
+                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.6" Value="{x:Static Visibility.Hidden}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="0.30772929438634455"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="rectangle">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="0.99384541411227312"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0.98"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle1">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="0.29445594662985969"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle2">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="rectangle3">
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle4">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.OverridesDefaultStyle)" Storyboard.TargetName="rectangle5">
+                    <DiscreteBooleanKeyFrame KeyTime="0" Value="False"/>
+                    <DiscreteBooleanKeyFrame KeyTime="0:0:1.1" Value="False"/>
+                </BooleanAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle5">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="rectangle6">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="rectangle7">
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="0"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
             <Storyboard x:Key="Step_2">
 
             </Storyboard>
@@ -34,7 +131,57 @@
     <Viewbox>
         <Canvas Height="1012" Width="1800">
             <Image Source="/MillitaryApp;component/Схемы аппаратуры/1.png" Height="1012" Width="1800" d:IsLocked="True"/>
-            <Ellipse x:Name="Signal" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5">
+            <Ellipse x:Name="Signal" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="303.25">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="Signal_Copy" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="266.417">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="Signal_Copy1" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="230.25">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="Signal_Copy2" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="194.583">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="Signal_Copy3" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="374.833">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Ellipse x:Name="Signal_Copy4" Style="{StaticResource Animation.Signal.Style}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Canvas.Left="368.166" Canvas.Top="339.75">
                 <Ellipse.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>
@@ -46,6 +193,86 @@
             </Ellipse>
             <Canvas x:Name="Step_1" Style="{StaticResource Animation.Step.Style}"/>
             <Canvas x:Name="Step_2" Style="{StaticResource Animation.Step.Style}"/>
+            <Rectangle x:Name="rectangle" Height="5.5" Canvas.Left="372" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="343.333" Width="537.333" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle1" Height="4.417" Canvas.Left="368.166" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="199.333" Width="540.334" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle2" Height="4.666" Canvas.Left="375" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="380.667" Width="159.667" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle3" Height="41.749" Canvas.Left="530.318" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="343.584" Width="4.198" Fill="#FFFF1A00" RenderTransformOrigin="0.5,1">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle4" Height="5" Canvas.Left="375.25" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="235.5" Width="159.25" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle5" Height="5.25" Canvas.Left="375.25" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="271.75" Width="159.25" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle6" Height="4.75" Canvas.Left="375.25" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="308.25" Width="159.25" Fill="#FFFF1A00" RenderTransformOrigin="0,0.5">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="rectangle7" Height="114" Canvas.Left="530" Style="{DynamicResource Animation.Signal.Line.Style}" Canvas.Top="199" Width="4.5" Fill="#FFFF1A00" RenderTransformOrigin="0.5,1">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="0"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
         </Canvas>
     </Viewbox>
 </Page>
