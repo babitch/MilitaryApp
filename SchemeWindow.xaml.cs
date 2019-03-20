@@ -183,12 +183,10 @@ namespace MillitaryApp
             Scheme.NextStepButton.IsEnabled = check;
             Scheme.BackStepButton.IsEnabled = check;
             Scheme.DescriptionButton.IsEnabled = check;
-            Scheme.RepeatButton.IsEnabled = check;
 
             Scheme.NextStepButton.Visibility = check ? Visibility.Visible : Visibility.Hidden;
             Scheme.BackStepButton.Visibility = check ? Visibility.Visible : Visibility.Hidden;
             Scheme.DescriptionButton.Visibility = check ? Visibility.Visible : Visibility.Hidden;
-            Scheme.RepeatButton.Visibility = check ? Visibility.Visible : Visibility.Hidden;
 
             Scheme.StepSteps.Text = string.Empty;
 
@@ -259,7 +257,6 @@ namespace MillitaryApp
         {
             Scheme.NextStepButton.IsEnabled = State.IsNext;
             Scheme.BackStepButton.IsEnabled = State.IsBack;
-            Scheme.DescriptionButton.IsEnabled = Scheme.RepeatButton.IsEnabled = State.IsAnimation;
         }
 
 

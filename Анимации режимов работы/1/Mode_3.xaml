@@ -48,6 +48,7 @@
             </Ellipse>
             <Canvas x:Name="Step_1" Style="{StaticResource Animation.Step.Style}"/>
             <Canvas x:Name="Step_2" Style="{StaticResource Animation.Step.Style}"/>
+            <Canvas x:Name="Step_3" Style="{StaticResource Animation.Step.Style}"/>
         </Canvas>
     </Viewbox>
 </Page>
