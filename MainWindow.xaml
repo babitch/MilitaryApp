@@ -81,7 +81,6 @@
                 <Image Source="Иконки аппаратуры/3.png" Margin="4" Width="160" Height="192"/>
                 <Image Source="Иконки аппаратуры/4.png" Margin="4" Width="160" Height="192"/>
                 <Image Source="Иконки аппаратуры/5.png" Margin="4" Width="160" Height="192"/>
-                <Image Source="Иконки аппаратуры/6.png" Margin="4" Width="160" Height="192"/>
             </UniformGrid>
 
             <UniformGrid x:Name="IconButtons" Width="495" Height="392" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="115,194,0,0" Rows="2" Columns="3">
@@ -110,11 +109,7 @@
                     <StaticResource ResourceKey="Button.AppIcon.Line.Selected" />
                     <StaticResource ResourceKey="Button.AppIcon.Line.Checked" />
                 </Canvas>
-                <Canvas Panel.ZIndex="1"  Style="{StaticResource Style.Button.AppIcon}">
-                    <StaticResource ResourceKey="Button.AppIcon.Border" />
-                    <StaticResource ResourceKey="Button.AppIcon.Line.Selected" />
-                    <StaticResource ResourceKey="Button.AppIcon.Line.Checked" />
-                </Canvas>
+
             </UniformGrid>
 
             <TextBlock Style="{StaticResource Main.Style.Button}" Text="Посмотреть фото" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,114,45" MouseLeftButtonUp="OpenPhoto"/>
